@@ -1,6 +1,6 @@
-# 📊 Power BI Projesi – Kırtasiye Sektörü Analizi
+# 📊 Power BI Projesi – KIRTASIYELER Markası Analizi
 
-Bu proje, Power BI kullanarak kırtasiye sektöründe bir markanın müşteri, ürün ve sipariş verilerini analiz etmeyi amaçlar. Veriler çeşitli tablolardan alınmış ve adım adım temizlenip anlamlı görselleştirmelere dönüştürülmüştür.
+Bu proje, Power BI kullanarak bir markanın müşteri, ürün ve sipariş verilerini analiz etmeyi amaçlar. Veriler çeşitli tablolardan alınmış ve adım adım temizlenip anlamlı görselleştirmelere dönüştürülmüştür.
 
 ---
 
