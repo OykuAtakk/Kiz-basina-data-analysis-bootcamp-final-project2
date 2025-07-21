@@ -42,7 +42,7 @@ Kullanıcı ilk olarak sadece bu sayfayı görür. Diğer sayfalara yönlendirme
 ---
 
 ### 🧾 Kategori Perspektifi
-- **Ağaç haritası** ile: İstanbul'da yaşayan, “Genç” yaş grubundaki müşterilerin kategorilere göre toplam cirosu.
+- **Ağaç haritası** ile: İstanbul'da yaşayan, “Orta Yaş” yaş grubundaki müşterilerin kategorilere göre toplam cirosu.
 
 ---
 
@@ -50,15 +50,12 @@ Kullanıcı ilk olarak sadece bu sayfayı görür. Diğer sayfalara yönlendirme
 
 - Tüm tablolar `.csv` formatında alınmış ve Power BI üzerinde işlenmiştir.
 - Proje boyunca Power Query, DAX ve modelleme becerileri kullanılmıştır.
-- Marka tercihi: **KIRTASİYELER** sektörü
+- Marka tercihi: **KIRTASİYELER**
 
 ---
 
 ## 📁 Dosya
 Projenin `.pbix` dosyasını bu depoda bulabilir ve Power BI Desktop ile açabilirsiniz.
 
----
 
-## 👨‍🏫 Not
-Bu proje bir ödev çalışmasıdır. Gerçek veriler içermeyebilir.
 
